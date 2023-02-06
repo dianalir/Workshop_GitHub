@@ -12,4 +12,9 @@
 
 ![image](https://user-images.githubusercontent.com/54061949/217102088-0d6f8463-177f-43a0-9801-4652a9cdfd68.png)
 
+4. After merging the new contribution can be seen in the main repository! 
+
+![image](https://user-images.githubusercontent.com/54061949/217106951-7b24a44f-b592-410c-ac77-82be4a5bfd00.png)
+
+
 [Previous](./pull_request.md) | [Next](./done.md)
