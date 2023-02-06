@@ -21,6 +21,7 @@ The steps in this section must be follow in order
 
 - [Create a GitHub account](./signup.md) 
 - [Fork](./fork.md) - Copy the collaborator's repository
+- Google colab - GitHub via google drive
 - Clone - Copy your repository locally
 - Commit - Make changes and save them locally
 - Push - Update your remote repository with your local changes
