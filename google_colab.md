@@ -46,4 +46,4 @@ https://drive.google.com/drive/folders/13mqUVHqRO-GOWAbN6dMo1iGCKEHVHx6u?usp=sha
 - R Studio
 - **Nostromo!!!!**
 
-[Previous](./fork.md) | [Next](./clone.md)
+[Previous](./fork.md) | [Next](./commit.md)
