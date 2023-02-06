@@ -46,4 +46,6 @@ https://drive.google.com/drive/folders/13mqUVHqRO-GOWAbN6dMo1iGCKEHVHx6u?usp=sha
 - R Studio
 - **Nostromo!!!!**
 
+# The main reason for this was for you to navigate in GitHub and get a feel of it, SORRY!!!!
+
 [Previous](./fork.md) | [Next](./commit.md)
