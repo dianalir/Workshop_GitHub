@@ -28,4 +28,6 @@ explore the differences
 
 ![image](https://user-images.githubusercontent.com/54061949/217095748-a45e5d2f-9b48-4b51-8c44-967926671de5.png)
 
-./google_colab.md
+
+
+[Previous](./google_colab.md) | [Next](./clone.md)
