@@ -19,8 +19,19 @@
 
 ![image](https://user-images.githubusercontent.com/54061949/216991977-a3abce3a-9a06-49cc-b419-e9e060c0992a.png)
 
+6. Click "create account"
 
-6. ***CONGRATUALTIONS!!! You have created your GitHub account*** 
+7. Verify account 
+![Screenshot 2023-02-06 at 14 12 16](https://user-images.githubusercontent.com/54061949/216994558-f4c61370-faf2-4a65-bde7-a210a91ca0d7.png)
+
+8. Answer the questions! 
+
+![Screenshot 2023-02-06 at 14 14 01](https://user-images.githubusercontent.com/54061949/216994731-0bd9c0e8-4ffe-4193-b295-e367d52254c8.png)
+
+
+9.   ***CONGRATUALTIONS!!! You have created your GitHub account*** 
+![image](https://user-images.githubusercontent.com/54061949/216994949-542f4a9b-c59e-4bd3-b636-32eee5e95ce1.png)
+
 ***
 
 [Previous](./README.md) | [Next](./fork.md)
