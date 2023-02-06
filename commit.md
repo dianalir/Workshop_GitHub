@@ -30,4 +30,4 @@ explore the differences
 
 
 
-[Previous](./google_colab.md) | [Next](./clone.md)
+[Previous](./google_colab.md) | [Next](./push.md)
