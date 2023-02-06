@@ -25,7 +25,7 @@ In order to use **Google colab** with **GitHub** while keeping **Google Drive** 
 
 ![Screenshot 2023-02-06 at 16 14 21](https://user-images.githubusercontent.com/54061949/217028965-6005dbee-eabc-44e0-af65-cad57fa45dd2.png)
 
-7. ***NOTE: MAKE A SURE YOU COPY THIS TOKEN!!!! YOU CANNOT RECOVER IT!!!!!!!!!!!!***
+7. ***NOTE: MAKE SURE YOU COPY THIS TOKEN!!!! YOU CANNOT RECOVER IT!!!!!!!!!!!!***
 
 ![image](https://user-images.githubusercontent.com/54061949/217025330-94ed1cd3-72d9-481a-95a1-0f8da24d6e87.png)
 
