@@ -31,12 +31,19 @@ In order to use **Google colab** with **GitHub** while keeping **Google Drive** 
 
 
 
-**Once the Access token has been generated go to Google drive - Solana lab/7. Members and find your Folder (Clue: the one with your name!)**
+**Once the Access token has been generated go to Google drive - There will be a Jupyter notebook that will explain step by step how to link GitHub and Google drive**
 
 Copy and paste this link in the browser in a new tab! 
 
 https://drive.google.com/drive/folders/13mqUVHqRO-GOWAbN6dMo1iGCKEHVHx6u?usp=share_link
 
+**For the purpose of this workshop we are going to continue in GitHub** rather than keep working in Google drive but please let me know if you want to learn how to link GitHub to:
 
+- Git
+- GitHub Desktop
+- Google Drive
+- Visual Code Studio
+- R Studio
+- **Nostromo!!!!**
 
 [Previous](./fork.md) | [Next](./clone.md)
