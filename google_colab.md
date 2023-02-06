@@ -33,6 +33,8 @@ In order to use **Google colab** with **GitHub** while keeping **Google Drive** 
 
 **Once the Access token has been generated go to Google drive - Solana lab/7. Members and find your Folder (Clue: the one with your name!)**
 
-Copy and paste this link in the browser in a new tab! https://drive.google.com/drive/folders/13mqUVHqRO-GOWAbN6dMo1iGCKEHVHx6u?usp=share_link
+Copy and paste this link in the browser in a new tab! 
+
+https://drive.google.com/drive/folders/13mqUVHqRO-GOWAbN6dMo1iGCKEHVHx6u?usp=share_link
 
 [Previous](./fork.md) | [Next](./clone.md)
