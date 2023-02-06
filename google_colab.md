@@ -48,4 +48,6 @@ https://drive.google.com/drive/folders/13mqUVHqRO-GOWAbN6dMo1iGCKEHVHx6u?usp=sha
 
 # The main reason for this was for you to navigate in GitHub and get a feel of it, SORRY!!!!
 
+<img src="https://media.tenor.com/QAz5_oGh13oAAAAM/puss-in.gif" width="262.5" height="294.71590909090907" alt="Puss In GIF - Puss In Boots GIFs">
+
 [Previous](./fork.md) | [Next](./commit.md)
