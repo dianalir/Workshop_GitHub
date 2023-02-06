@@ -11,7 +11,7 @@ Also, it tells you if the branches can be merge, if there is a conflict between 
 
 ![image](https://user-images.githubusercontent.com/54061949/217098661-6587bcd1-163c-4c7e-94c7-8a856258fc78.png)
 
-3. Scroll down and check the specific changes that have been done
+3. Scroll down and check the specific changes that have been made
 
 ![image](https://user-images.githubusercontent.com/54061949/217099202-56b38f43-5161-48a1-9670-db212a064a7f.png)
 
