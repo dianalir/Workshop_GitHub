@@ -24,4 +24,7 @@ Also, it tells you if the branches can be merge, if there is a conflict between 
 ![image](https://user-images.githubusercontent.com/54061949/217100120-f82d6b09-cff0-4c9e-bbd1-427b80e20472.png)
 
 
+6. You can now see your firts pull request!!!
+![image](https://user-images.githubusercontent.com/54061949/217101134-f656a7a3-b804-4580-a279-cd0fef74f099.png)
+
 [Previous](./push.md) | [Next](./merge.md)
