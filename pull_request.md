@@ -1,8 +1,9 @@
 # Pull requests
 
-Once you have committed your changes you can request the collaborator to pull your changes to the "Origina;" branch in order to contribute to the repository.
+Once you have committed your changes you can request the collaborator to pull your changes to the "Original" branch in order to contribute to the repository.
 
 1.click *`Pull requests`* and then create a *`New pull request`*
+
 ![image](https://user-images.githubusercontent.com/54061949/217098001-3b75b053-c1b4-4391-952c-7de9e95e3b8a.png)
 
 2. GitHub then compares all the changes made in your repo and lists them for easy tracking of the updates 
