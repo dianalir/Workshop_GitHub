@@ -19,7 +19,7 @@
   ![image](https://user-images.githubusercontent.com/54061949/217105300-e71201b3-5c5b-4025-aaa8-cf2ba9aa061d.png)
   
 
-## Good job! You fork your first repository! 
+## Good job! You forked your first repository! 
 
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://ghost.org/images/docs/setup/fork.gif">
 
