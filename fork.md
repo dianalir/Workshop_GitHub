@@ -10,4 +10,4 @@
 
 ***
 
-[Previous](./signup.md) | [Next](./clone.md)
+[Previous](./signup.md) | [Next](./google_colab.md)
