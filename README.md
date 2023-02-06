@@ -23,9 +23,9 @@ The steps in this section must be follow in order
 - [Google colab](./google_colab.md) - GitHub via google drive
 - [Commit](./commit.md) - Make changes and save them locally
 - [Push](./push) - Update your remote repository with your local changes
-- [Pull request](./pull_request) - Ask your collaborator to integrate your changes in their repository
-- Merged results - Observe the merge of all contributions
-- Pull the upstream repository into your fork - Update your fork with all contributions made to the original repository
+- [Pull request](./pull_request.md) - Ask your collaborator to integrate your changes in their repository
+- [Merged results](./merge.md) - Observe the merge of all contributions
+
 
 ***
 
