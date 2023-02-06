@@ -19,8 +19,8 @@ The steps in this section must be follow in order
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://media.npr.org/assets/img/2018/11/05/DL_519Planarians_PLANARIAN_PIECES_MOVE_AWAY_FM_EACH_OTHER.gif">
 
 
-- [Create a GitHub account](./signup.md)
-- Fork - Copy the collaborator's repository
+- [Create a GitHub account](./signup.md) 
+- [Fork] - Copy the collaborator's repository
 - Clone - Copy your repository locally
 - Commit - Make changes and save them locally
 - Push - Update your remote repository with your local changes
