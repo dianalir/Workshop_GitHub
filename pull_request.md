@@ -1,4 +1,4 @@
-# Pull requests!
+# Pull requests
 
 Once you have committed your changes you can request the collaborator to pull your changes to the "Origina;" branch in order to contribute to the repository.
 
