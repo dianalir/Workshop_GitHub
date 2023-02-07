@@ -31,13 +31,10 @@ In order to use **Google colab** with **GitHub** while keeping **Google Drive** 
 
 
 
-**Once the Access token has been generated go to Google drive - There will be a Jupyter notebook that will explain step by step how to link GitHub and Google drive**
+### There will be a Jupyter notebook that will explain step by step how to link GitHub and Google drive BUT...
 
-Copy and paste this link in the browser in a new tab! 
 
-https://drive.google.com/drive/folders/13mqUVHqRO-GOWAbN6dMo1iGCKEHVHx6u?usp=share_link
-
-**For the purpose of this workshop we are going to continue in GitHub** rather than keep working in Google drive but please let me know if you want to learn how to link GitHub to:
+**For the purpose of this workshop we are going to continue in GitHub** rather than working in Google drive but please let me know if you want to learn how to link GitHub to:
 
 - Git
 - GitHub Desktop
@@ -46,8 +43,5 @@ https://drive.google.com/drive/folders/13mqUVHqRO-GOWAbN6dMo1iGCKEHVHx6u?usp=sha
 - R Studio
 - **Nostromo!!!!**
 
-# The main reason for this was for you to navigate in GitHub and get a feel of it, SORRY!!!!
-
-<img src="https://media.tenor.com/QAz5_oGh13oAAAAM/puss-in.gif" width="262.5" height="294.71590909090907" alt="Puss In GIF - Puss In Boots GIFs">
 
 [Previous](./fork.md) | [Next](./commit.md)
